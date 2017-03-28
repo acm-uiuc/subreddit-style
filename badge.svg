@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="694px" height="63px" viewBox="0 0 694 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>badge</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <rect id="Rectangle-1" fill="#F69924" sketch:type="MSShapeGroup" x="0" y="0" width="468.228205" height="62.3128792"></rect>
+        <text id="CHECKOUT-THE-SUBREDD" sketch:type="MSTextLayer" font-family="Brandon Grotesque" font-size="24" font-weight="normal" letter-spacing="3.9000001" fill="#FFFFFF">
+            <tspan x="35" y="40">CHECKOUT THE SUBREDDI</tspan>
+            <tspan x="417.980002" y="40">T</tspan>
+        </text>
+        <rect id="Rectangle-1-Copy" fill="#EF8428" sketch:type="MSShapeGroup" x="460.204893" y="0" width="233.228205" height="62.3128792"></rect>
+        <text id="R/ACM-UIUC" sketch:type="MSTextLayer" font-family="Brandon Grotesque" font-size="24" font-weight="normal" letter-spacing="4.0999999" fill="#FFFFFF">
+            <tspan x="489" y="40">R/ACM-UIU</tspan>
+            <tspan x="652.715999" y="40">C</tspan>
+        </text>
+    </g>
+</svg>
